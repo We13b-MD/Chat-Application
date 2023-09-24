@@ -32,5 +32,6 @@ test('it should render messages', () => {
     expect(usernameElement).toBeInTheDocument();
     expect(bodyElement).toBeInTheDocument();
   }
+})
 
 
